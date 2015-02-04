@@ -1,36 +1,13 @@
-Android WatchFace Sample
-===================================
+Sweeplog- A simple analog watch face with a sweeping animation. A clasic look for the modern era.
 
-This sample demonstrates how to create watch faces for android wear and includes a phone app
-and a wearable app. The wearable app has a variety of watch faces including analog, digital,
-opengl, calendar, etc. It also includes a watch-side configuration example. The phone app
-includes a phone-side configuration example.
+Sweeplog is a simple and easy to use watch face for Android Wear. This includes an analog watch face that has a sweeping motion on the seconds hand. I have made this open source so other developers can learn from it and so I can learn from other developers. Feel free to use this but please respect the following requirements:
 
-Pre-requisites
---------------
+1. Credit both me and Google (as this is made from the watch face sample) in either the app itself or in the description of the app or Repo. 
+2. Please respect the license below.
+3. Please do not use the same name as me. 
+4. Have fun with it! :)
 
-- Android SDK v21
-- Android Build Tools v21.1.1
-- Android Support Repository
-
-Getting Started
----------------
-
-This sample uses the Gradle build system. To build this project, use the
-"gradlew build" command or use "Import Project" in Android Studio.
-
-Support
--------
-
-- Google+ Community: https://plus.google.com/communities/105153134372062985968
-- Stack Overflow: http://stackoverflow.com/questions/tagged/android
-
-If you've found an error in this sample, please file an issue:
-https://github.com/googlesamples/android-WatchFace
-
-Patches are encouraged, and may be submitted by forking this project and
-submitting a pull request through GitHub. Please see CONTRIBUTING.md for more details.
-
+Sample: https://github.com/googlesamples/android-WatchFace
 License
 -------
 
