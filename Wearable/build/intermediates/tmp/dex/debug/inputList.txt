@@ -1,0 +1,10 @@
+C:\Android\Projects\SimpFace\Wearable\build\intermediates\classes\debug
+C:\Android\Projects\SimpFace\Wearable\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-3edf4c7fa0c42ca62a52f4fa4e7f40f250f652e1.jar
+C:\Android\Projects\SimpFace\Wearable\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-99c1ccd53a7fa88549c32ac544faa9e96cd17557.jar
+C:\Android\Projects\SimpFace\Wearable\build\intermediates\pre-dexed\debug\classes-2378198b79b5d86f609746add128f9b1b566bb11.jar
+C:\Android\Projects\SimpFace\Wearable\build\intermediates\pre-dexed\debug\classes-46211e12523875dc7ebd37c5d700f2109689355d.jar
+C:\Android\Projects\SimpFace\Wearable\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-cfd4b19cc2a8133459962de0e67552a228c071d9.jar
+C:\Android\Projects\SimpFace\Wearable\build\intermediates\pre-dexed\debug\classes-db23da158cce4dd2ea63006b92a618403570150c.jar
+C:\Android\Projects\SimpFace\Wearable\build\intermediates\pre-dexed\debug\classes-4a0a1526e31b8b51c09a69ff66542ee93fc104ab.jar
+C:\Android\Projects\SimpFace\Wearable\build\intermediates\pre-dexed\debug\classes-7d9059b1a1ba9a0d2d8d4ff48c76fb68b87ab4a3.jar
+C:\Android\Projects\SimpFace\Wearable\build\intermediates\pre-dexed\debug\classes-d4c166ce8e278a1a7e52010759ef465a5d0db83a.jar

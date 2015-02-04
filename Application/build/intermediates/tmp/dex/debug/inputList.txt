@@ -1,0 +1,10 @@
+C:\Android\Projects\SimpFace\Application\build\intermediates\classes\debug
+C:\Android\Projects\SimpFace\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-19b5fb15df5117df12b3bff67b1a7971d607fd8c.jar
+C:\Android\Projects\SimpFace\Application\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-99c1ccd53a7fa88549c32ac544faa9e96cd17557.jar
+C:\Android\Projects\SimpFace\Application\build\intermediates\pre-dexed\debug\classes-c8898763429f6dee8208c3d3906b1fea9d9df43e.jar
+C:\Android\Projects\SimpFace\Application\build\intermediates\pre-dexed\debug\classes-52d28721566b630748204ff6f03ce54e1e73b73d.jar
+C:\Android\Projects\SimpFace\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-423fd8ab8bd5f5499a69c58034c745db1272cdd7.jar
+C:\Android\Projects\SimpFace\Application\build\intermediates\pre-dexed\debug\classes-99631529bc595af97a28a9a1909105d584c89253.jar
+C:\Android\Projects\SimpFace\Application\build\intermediates\pre-dexed\debug\classes-c7ebccb3192a625592db2417941f37de9673bc1b.jar
+C:\Android\Projects\SimpFace\Application\build\intermediates\pre-dexed\debug\classes-302617c5bcbac4ebda321d0de43725b0ac3c90bb.jar
+C:\Android\Projects\SimpFace\Application\build\intermediates\pre-dexed\debug\classes-c14d1a35b692d94d9ca316b8a6d9d78c638ebcbb.jar

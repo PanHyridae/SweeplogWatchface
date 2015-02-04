@@ -1,0 +1,10 @@
+C:\Android\Projects\Sweeplog\Wearable\build\intermediates\classes\release
+C:\Android\Projects\Sweeplog\Wearable\build\intermediates\pre-dexed\release\internal_impl-21.0.3-109d17bca9eb6b95ecbabb87e49f190267ebcfb1.jar
+C:\Android\Projects\Sweeplog\Wearable\build\intermediates\pre-dexed\release\support-annotations-21.0.3-99c1ccd53a7fa88549c32ac544faa9e96cd17557.jar
+C:\Android\Projects\Sweeplog\Wearable\build\intermediates\pre-dexed\release\classes-a15ec45b7d0c70e7e2854a5540af783fb2276816.jar
+C:\Android\Projects\Sweeplog\Wearable\build\intermediates\pre-dexed\release\classes-45bf90adba7435fe98e030907b31ad5be7cb9c8f.jar
+C:\Android\Projects\Sweeplog\Wearable\build\intermediates\pre-dexed\release\internal_impl-21.0.3-3111c7e4e714a145b96945464407f63dc28621ce.jar
+C:\Android\Projects\Sweeplog\Wearable\build\intermediates\pre-dexed\release\classes-ddf04d50eabfd291aba94ca1c2aaf954a1cb29d2.jar
+C:\Android\Projects\Sweeplog\Wearable\build\intermediates\pre-dexed\release\classes-6eb5f7ac5bed248cb0880145b402d8d9fbdb9902.jar
+C:\Android\Projects\Sweeplog\Wearable\build\intermediates\pre-dexed\release\classes-394b92de694f1f8bc27033cfb2e76efa826a62b4.jar
+C:\Android\Projects\Sweeplog\Wearable\build\intermediates\pre-dexed\release\classes-540957867feb63f6c9a65c13d8adfbbf29ac209d.jar

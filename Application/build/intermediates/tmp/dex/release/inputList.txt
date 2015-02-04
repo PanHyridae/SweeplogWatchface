@@ -1,0 +1,10 @@
+C:\Android\Projects\Sweeplog\Application\build\intermediates\classes\release
+C:\Android\Projects\Sweeplog\Application\build\intermediates\pre-dexed\release\internal_impl-21.0.3-2d21eb4d059777c1541e1047827a4dff9aa3c75c.jar
+C:\Android\Projects\Sweeplog\Application\build\intermediates\pre-dexed\release\support-annotations-21.0.3-99c1ccd53a7fa88549c32ac544faa9e96cd17557.jar
+C:\Android\Projects\Sweeplog\Application\build\intermediates\pre-dexed\release\classes-39bc1ab46d86875b3b74db469c3675cd7c3fe1e0.jar
+C:\Android\Projects\Sweeplog\Application\build\intermediates\pre-dexed\release\classes-5377376facf0673676f3fe297421b00d1019b633.jar
+C:\Android\Projects\Sweeplog\Application\build\intermediates\pre-dexed\release\internal_impl-21.0.3-b2b6a67305b3565a981eecc8c38060fc37a171e8.jar
+C:\Android\Projects\Sweeplog\Application\build\intermediates\pre-dexed\release\classes-c7d732d5a870fbf75493a7c56a95146d3f62ce75.jar
+C:\Android\Projects\Sweeplog\Application\build\intermediates\pre-dexed\release\classes-48c36390057231a455fe03440cbd6fe6a97eff65.jar
+C:\Android\Projects\Sweeplog\Application\build\intermediates\pre-dexed\release\classes-c7f6fae6c2e6b8d7a015b3b7c48674dff9f0159e.jar
+C:\Android\Projects\Sweeplog\Application\build\intermediates\pre-dexed\release\classes-ac0ca890bfdb107c356e8217138f87d8fbb6cd3d.jar
