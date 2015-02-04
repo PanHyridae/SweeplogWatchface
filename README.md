@@ -1,4 +1,4 @@
-Sweeplog- A simple analog watch face with a sweeping animation. A clasic look for the modern era.
+Sweeplog- A simple analog watch face with a sweeping animation. A classic look for the modern era.
 
 Sweeplog is a simple and easy to use watch face for Android Wear. This includes an analog watch face that has a sweeping motion on the seconds hand. I have made this open source so other developers can learn from it and so I can learn from other developers. Feel free to use this but please respect the following requirements:
 
