@@ -454,8 +454,8 @@ containing a value of this type.
         public static final int ic_plusone_small_off_client=0x7f020071;
         public static final int ic_plusone_standard_off_client=0x7f020072;
         public static final int ic_plusone_tall_off_client=0x7f020073;
-        public static final int preview_analog=0x7f020074;
-        public static final int preview_analog_circular=0x7f020075;
+        public static final int preview=0x7f020074;
+        public static final int preview_circular=0x7f020075;
     }
     public static final class id {
         public static final int action_error=0x7f0d000b;

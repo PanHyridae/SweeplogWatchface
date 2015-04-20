@@ -2,123 +2,130 @@
 <items version="2" >
 
     <item
-        jar="C:\Android\Projects\Sweeplog\Application\build\intermediates\exploded-aar\com.android.support\support-v13\21.0.3\libs\internal_impl-21.0.3.jar"
+        jar="C:\Android\Projects\SweeplogWatchface\Wearable\build\intermediates\exploded-aar\com.google.android.support\wearable\1.1.0\classes.jar"
         jumboMode="false"
-        revision="21.1.1"
+        revision="21.1.2"
+        sha1="27f19641b81b1078e653d2f0e5d1ed44d158a785">
+        <dex dex="C:\Android\Projects\SweeplogWatchface\Wearable\build\intermediates\pre-dexed\release\classes-3e33eb148679989f28357bc38caf8c97b07b389d.jar" />
+    </item>
+    <item
+        jar="C:\Android\Projects\SweeplogWatchface\Application\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Android\Projects\SweeplogWatchface\Application\build\intermediates\pre-dexed\debug\classes-780f6c7270c9551bcbfa7e30123a0257749e70a2.jar" />
+    </item>
+    <item
+        jar="C:\Android\Projects\SweeplogWatchface\Application\build\intermediates\exploded-aar\com.android.support\support-v13\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
         sha1="0dcc55e70f7ebf7238fe2ec53f662eb378ab2668">
-        <dex dex="C:\Android\Projects\Sweeplog\Application\build\intermediates\pre-dexed\release\internal_impl-21.0.3-2d21eb4d059777c1541e1047827a4dff9aa3c75c.jar" />
+        <dex dex="C:\Android\Projects\SweeplogWatchface\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-6245e6ec1d5085cea0fc6fa9a205aeebd4991caa.jar" />
+    </item>
+    <item
+        jar="C:\Android\Projects\SweeplogWatchface\Wearable\build\intermediates\exploded-aar\com.android.support\support-v13\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c2071dcaf7a008c3b01a6381a33be55396bab09">
+        <dex dex="C:\Android\Projects\SweeplogWatchface\Wearable\build\intermediates\pre-dexed\release\classes-182916dc66539c6c0304fd61bc8ab7b0bb1ede57.jar" />
+    </item>
+    <item
+        jar="C:\Android\Projects\SweeplogWatchface\Wearable\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\6.5.87\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6384c6cd674a22610b932d9464aa6938d067f285">
+        <dex dex="C:\Android\Projects\SweeplogWatchface\Wearable\build\intermediates\pre-dexed\release\classes-487e63e608d629d5d362b502818e79a27852b4d8.jar" />
+    </item>
+    <item
+        jar="C:\Android\Projects\SweeplogWatchface\Wearable\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\6.5.87\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="95482e7c792a7c0d5a9d5461e97726bd54fe9549">
+        <dex dex="C:\Android\Projects\SweeplogWatchface\Wearable\build\intermediates\pre-dexed\release\classes-7fe390270ffff58c36558e6c5132f0295b0f965b.jar" />
+    </item>
+    <item
+        jar="C:\Android\Projects\SweeplogWatchface\Wearable\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Android\Projects\SweeplogWatchface\Wearable\build\intermediates\pre-dexed\release\classes-b95113159352dd6e3f24a966e313cc681b52f82c.jar" />
+    </item>
+    <item
+        jar="C:\Android\Projects\SweeplogWatchface\Wearable\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\21.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="efeda77c808750cb670ee9c48d8a1835d89dbcb2">
+        <dex dex="C:\Android\Projects\SweeplogWatchface\Wearable\build\intermediates\pre-dexed\release\classes-4adb6e528569bb179492da79d17f2e94fd7f58ce.jar" />
+    </item>
+    <item
+        jar="C:\Android\Projects\SweeplogWatchface\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\6.5.87\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="95482e7c792a7c0d5a9d5461e97726bd54fe9549">
+        <dex dex="C:\Android\Projects\SweeplogWatchface\Application\build\intermediates\pre-dexed\debug\classes-0786f539845bc0ad653f1417c9908c5a0091a509.jar" />
+    </item>
+    <item
+        jar="C:\Android\Projects\SweeplogWatchface\Application\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Android\Projects\SweeplogWatchface\Application\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-284428b8fe69b42d226f5e3e9820e7a7ecf66893.jar" />
+    </item>
+    <item
+        jar="C:\Android\Projects\SweeplogWatchface\Wearable\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Android\Projects\SweeplogWatchface\Wearable\build\intermediates\pre-dexed\release\internal_impl-21.0.3-c2eeb67c3392b3a2b97cc95b514e9fa16a52826c.jar" />
+    </item>
+    <item
+        jar="C:\Android\Projects\SweeplogWatchface\Application\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\21.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="efeda77c808750cb670ee9c48d8a1835d89dbcb2">
+        <dex dex="C:\Android\Projects\SweeplogWatchface\Application\build\intermediates\pre-dexed\debug\classes-bebd8f7c74cbb469fed847f233b12fb8d0316beb.jar" />
+    </item>
+    <item
+        jar="C:\Android\Projects\SweeplogWatchface\Wearable\build\intermediates\exploded-aar\com.android.support\support-v13\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0dcc55e70f7ebf7238fe2ec53f662eb378ab2668">
+        <dex dex="C:\Android\Projects\SweeplogWatchface\Wearable\build\intermediates\pre-dexed\release\internal_impl-21.0.3-3164b0bcc6297df57a63766ec6eb3915f9932c16.jar" />
+    </item>
+    <item
+        jar="C:\Android\Projects\SweeplogWatchface\Application\build\intermediates\exploded-aar\com.android.support\support-v13\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c2071dcaf7a008c3b01a6381a33be55396bab09">
+        <dex dex="C:\Android\Projects\SweeplogWatchface\Application\build\intermediates\pre-dexed\debug\classes-9196edb7952d938d4cb45b32514d1c2d4e29f7c1.jar" />
+    </item>
+    <item
+        jar="C:\Android\Projects\SweeplogWatchface\Application\build\intermediates\exploded-aar\com.google.android.support\wearable\1.1.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="27f19641b81b1078e653d2f0e5d1ed44d158a785">
+        <dex dex="C:\Android\Projects\SweeplogWatchface\Application\build\intermediates\pre-dexed\debug\classes-acdada7d957c253750bd53bc0d37a395570f9d60.jar" />
+    </item>
+    <item
+        jar="C:\Android\Projects\SweeplogWatchface\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\6.5.87\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6384c6cd674a22610b932d9464aa6938d067f285">
+        <dex dex="C:\Android\Projects\SweeplogWatchface\Application\build\intermediates\pre-dexed\debug\classes-ebb1d32d854fab80fd46cf9e4254f70e5e8504d7.jar" />
+    </item>
+    <item
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Android\Projects\SweeplogWatchface\Application\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-036d4f6abf1af3a69bdd91c577da918ead884ec2.jar" />
     </item>
     <item
         jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
         jumboMode="false"
-        revision="21.1.1"
+        revision="21.1.2"
         sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
-        <dex dex="C:\Android\Projects\Sweeplog\Wearable\build\intermediates\pre-dexed\release\support-annotations-21.0.3-99c1ccd53a7fa88549c32ac544faa9e96cd17557.jar" />
-    </item>
-    <item
-        jar="C:\Android\Projects\Sweeplog\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\6.5.87\classes.jar"
-        jumboMode="false"
-        revision="21.1.1"
-        sha1="95482e7c792a7c0d5a9d5461e97726bd54fe9549">
-        <dex dex="C:\Android\Projects\Sweeplog\Application\build\intermediates\pre-dexed\release\classes-ac0ca890bfdb107c356e8217138f87d8fbb6cd3d.jar" />
-    </item>
-    <item
-        jar="C:\Android\Projects\Sweeplog\Wearable\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\21.0.0\classes.jar"
-        jumboMode="false"
-        revision="21.1.1"
-        sha1="efeda77c808750cb670ee9c48d8a1835d89dbcb2">
-        <dex dex="C:\Android\Projects\Sweeplog\Wearable\build\intermediates\pre-dexed\release\classes-6eb5f7ac5bed248cb0880145b402d8d9fbdb9902.jar" />
-    </item>
-    <item
-        jar="C:\Android\Projects\Sweeplog\Wearable\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
-        jumboMode="false"
-        revision="21.1.1"
-        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
-        <dex dex="C:\Android\Projects\Sweeplog\Wearable\build\intermediates\pre-dexed\release\classes-394b92de694f1f8bc27033cfb2e76efa826a62b4.jar" />
-    </item>
-    <item
-        jar="C:\Android\Projects\Sweeplog\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\6.5.87\classes.jar"
-        jumboMode="false"
-        revision="21.1.1"
-        sha1="6384c6cd674a22610b932d9464aa6938d067f285">
-        <dex dex="C:\Android\Projects\Sweeplog\Application\build\intermediates\pre-dexed\release\classes-5377376facf0673676f3fe297421b00d1019b633.jar" />
-    </item>
-    <item
-        jar="C:\Android\Projects\Sweeplog\Wearable\build\intermediates\exploded-aar\com.android.support\support-v13\21.0.3\classes.jar"
-        jumboMode="false"
-        revision="21.1.1"
-        sha1="2c2071dcaf7a008c3b01a6381a33be55396bab09">
-        <dex dex="C:\Android\Projects\Sweeplog\Wearable\build\intermediates\pre-dexed\release\classes-a15ec45b7d0c70e7e2854a5540af783fb2276816.jar" />
-    </item>
-    <item
-        jar="C:\Android\Projects\Sweeplog\Application\build\intermediates\exploded-aar\com.android.support\support-v13\21.0.3\classes.jar"
-        jumboMode="false"
-        revision="21.1.1"
-        sha1="2c2071dcaf7a008c3b01a6381a33be55396bab09">
-        <dex dex="C:\Android\Projects\Sweeplog\Application\build\intermediates\pre-dexed\release\classes-39bc1ab46d86875b3b74db469c3675cd7c3fe1e0.jar" />
-    </item>
-    <item
-        jar="C:\Android\Projects\Sweeplog\Application\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
-        jumboMode="false"
-        revision="21.1.1"
-        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
-        <dex dex="C:\Android\Projects\Sweeplog\Application\build\intermediates\pre-dexed\release\internal_impl-21.0.3-b2b6a67305b3565a981eecc8c38060fc37a171e8.jar" />
-    </item>
-    <item
-        jar="C:\Android\Projects\Sweeplog\Application\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\21.0.0\classes.jar"
-        jumboMode="false"
-        revision="21.1.1"
-        sha1="efeda77c808750cb670ee9c48d8a1835d89dbcb2">
-        <dex dex="C:\Android\Projects\Sweeplog\Application\build\intermediates\pre-dexed\release\classes-48c36390057231a455fe03440cbd6fe6a97eff65.jar" />
-    </item>
-    <item
-        jar="C:\Android\Projects\Sweeplog\Application\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
-        jumboMode="false"
-        revision="21.1.1"
-        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
-        <dex dex="C:\Android\Projects\Sweeplog\Application\build\intermediates\pre-dexed\release\classes-c7f6fae6c2e6b8d7a015b3b7c48674dff9f0159e.jar" />
-    </item>
-    <item
-        jar="C:\Android\Projects\Sweeplog\Wearable\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\6.5.87\classes.jar"
-        jumboMode="false"
-        revision="21.1.1"
-        sha1="6384c6cd674a22610b932d9464aa6938d067f285">
-        <dex dex="C:\Android\Projects\Sweeplog\Wearable\build\intermediates\pre-dexed\release\classes-45bf90adba7435fe98e030907b31ad5be7cb9c8f.jar" />
-    </item>
-    <item
-        jar="C:\Android\Projects\Sweeplog\Wearable\build\intermediates\exploded-aar\com.android.support\support-v13\21.0.3\libs\internal_impl-21.0.3.jar"
-        jumboMode="false"
-        revision="21.1.1"
-        sha1="0dcc55e70f7ebf7238fe2ec53f662eb378ab2668">
-        <dex dex="C:\Android\Projects\Sweeplog\Wearable\build\intermediates\pre-dexed\release\internal_impl-21.0.3-109d17bca9eb6b95ecbabb87e49f190267ebcfb1.jar" />
-    </item>
-    <item
-        jar="C:\Android\Projects\Sweeplog\Wearable\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\6.5.87\classes.jar"
-        jumboMode="false"
-        revision="21.1.1"
-        sha1="95482e7c792a7c0d5a9d5461e97726bd54fe9549">
-        <dex dex="C:\Android\Projects\Sweeplog\Wearable\build\intermediates\pre-dexed\release\classes-540957867feb63f6c9a65c13d8adfbbf29ac209d.jar" />
-    </item>
-    <item
-        jar="C:\Android\Projects\Sweeplog\Wearable\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
-        jumboMode="false"
-        revision="21.1.1"
-        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
-        <dex dex="C:\Android\Projects\Sweeplog\Wearable\build\intermediates\pre-dexed\release\internal_impl-21.0.3-3111c7e4e714a145b96945464407f63dc28621ce.jar" />
-    </item>
-    <item
-        jar="C:\Android\Projects\Sweeplog\Application\build\intermediates\exploded-aar\com.google.android.support\wearable\1.1.0\classes.jar"
-        jumboMode="false"
-        revision="21.1.1"
-        sha1="27f19641b81b1078e653d2f0e5d1ed44d158a785">
-        <dex dex="C:\Android\Projects\Sweeplog\Application\build\intermediates\pre-dexed\release\classes-c7d732d5a870fbf75493a7c56a95146d3f62ce75.jar" />
-    </item>
-    <item
-        jar="C:\Android\Projects\Sweeplog\Wearable\build\intermediates\exploded-aar\com.google.android.support\wearable\1.1.0\classes.jar"
-        jumboMode="false"
-        revision="21.1.1"
-        sha1="27f19641b81b1078e653d2f0e5d1ed44d158a785">
-        <dex dex="C:\Android\Projects\Sweeplog\Wearable\build\intermediates\pre-dexed\release\classes-ddf04d50eabfd291aba94ca1c2aaf954a1cb29d2.jar" />
+        <dex dex="C:\Android\Projects\SweeplogWatchface\Wearable\build\intermediates\pre-dexed\release\support-annotations-21.0.3-99c1ccd53a7fa88549c32ac544faa9e96cd17557.jar" />
     </item>
 
 </items>

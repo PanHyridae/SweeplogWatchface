@@ -3,10 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Application/Application.iml" filepath="$PROJECT_DIR$/Application/Application.iml" />
-      <module fileurl="file://$PROJECT_DIR$/SimpFace.iml" filepath="$PROJECT_DIR$/SimpFace.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Sweeplog.iml" filepath="$PROJECT_DIR$/Sweeplog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SweeplogWatchface.iml" filepath="$PROJECT_DIR$/SweeplogWatchface.iml" />
       <module fileurl="file://$PROJECT_DIR$/Wearable/Wearable.iml" filepath="$PROJECT_DIR$/Wearable/Wearable.iml" />
     </modules>
   </component>
 </project>
-
