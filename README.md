@@ -8,7 +8,7 @@ This is based off of Google's samples.
 License
 -------
 ````
-Copyright 2014 The Android Open Source Project, Inc.
+Copyright 2014 Marlon Jones
 
 Licensed to the Apache Software Foundation (ASF) under one or more contributor
 license agreements.  See the NOTICE file distributed with this work for
